@@ -39,15 +39,15 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
   <!-- Photo grid -->
   <div class="w3-row">
     <div class="w3-third">
-      <img src="./thesis_work.jpg" style="width:60%" onclick="onClick(this)" alt="Applied Numerical Methods">
+      <img src="./thesis_work.jpg" style="width:100%" onclick="onClick(this)" alt="Applied Numerical Methods">
     </div>
 
     <div class="w3-third">
-      <img src="./cfd_dummy.jpg" style="width:60%" onclick="onClick(this)" alt="Computer Aided Geometric Design">
+      <img src="./cfd_dummy.jpg" style="width:100%" onclick="onClick(this)" alt="Computer Aided Geometric Design">
     </div>
 
     <div class="w3-third">
-      <img src="<img src="https://c.pxhere.com/images/ae/5c/d5d2a3541f6d0b51e6c89022234c-1450695.jpg!d" srcset="https://c.pxhere.com/images/ae/5c/d5d2a3541f6d0b51e6c89022234c-1450695.jpg!d">" style="width:60%" onclick="onClick(this)" alt="Computational Fluid Dynamics">
+      <img src="./cfd_dummy.jpg" style="width:100%" onclick="onClick(this)" alt="Computational Fluid Dynamics">
     </div>
   </div>
 
